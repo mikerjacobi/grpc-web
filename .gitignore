@@ -1,0 +1,8 @@
+client/client
+server/server
+server/tls*
+web-client/build  
+web-client/generated  
+web-client/node_modules  
+web-client/package-lock.json 
+
